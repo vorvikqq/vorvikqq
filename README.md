@@ -4,4 +4,5 @@
 <ul>
 		<li>I'm a started developer and I can make  simple websites, for instance in my repositories.</li>
 		<li>I will be grateful if you check my works</li>
+		<li>For contact: https://t.me/vorvikqq</li>
 	</ul>
